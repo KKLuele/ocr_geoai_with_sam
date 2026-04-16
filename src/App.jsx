@@ -277,7 +277,7 @@ function App() {
         <header className="hud-header animate-slide-in">
           <div className="app-title">
             <Layers size={28} color="var(--accent-primary)" />
-            Cava Luele <span style={{ fontWeight: 400, color: 'var(--text-muted)' }}>Spatial Computing</span>
+            Cava Alpha <span style={{ fontWeight: 400, color: 'var(--text-muted)' }}>Spatial Computing</span>
           </div>
           <div className="status-badge glass-panel" style={{ padding: '8px 16px', borderRadius: '30px' }}>
             <div className={`status-dot ${isConnected ? 'connected' : ''}`}></div>
